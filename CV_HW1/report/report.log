@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.3.12)  21 OCT 2024 16:09
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.3.12)  21 OCT 2024 16:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1035,28 +1035,28 @@ File: ../output/many_objects_2_attribute.png Graphic file (type bmp)
 <../output/many_objects_2_attribute.png>
 
 LaTeX Font Warning: Font shape `TU/SimSun(2)/b/n' undefined
-(Font)              using `TU/SimSun(2)/m/n' instead on input line 128.
+(Font)              using `TU/SimSun(2)/m/n' instead on input line 130.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 132.
+(hyperref)                removing `\leavevmode@ifvmode' on input line 134.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00792pt
-(hyperref)                removed on input line 132.
+(hyperref)                removed on input line 134.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leavevmode@ifvmode' on input line 132.
+(hyperref)                removing `\leavevmode@ifvmode' on input line 134.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 2.00792pt
-(hyperref)                removed on input line 132.
+(hyperref)                removed on input line 134.
 
 File: ../output/coins_edges_sobel.png Graphic file (type bmp)
 <../output/coins_edges_sobel.png>
@@ -1064,6 +1064,11 @@ File: ../output/coins_edges.png Graphic file (type bmp)
 <../output/coins_edges.png>
 File: ../output/coins_circles.png Graphic file (type bmp)
 <../output/coins_circles.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--163
+
+ []
+
 File: ../output/coins_attribute.png Graphic file (type bmp)
 <../output/coins_attribute.png>
 

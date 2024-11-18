@@ -17,6 +17,21 @@
 \maketitle
 
 \section{Programming Assignment}
+\begin{enumerate}
+    \item In \verb|init_world_points()|, we use \verb|cv2.findChessboardCorners()| to find the corners of the chessboard. And we use \verb|cv2.cornerSubPix()| to refine the corner positions. We store the 3D world points and 2D image points in \verb|world_points| and \verb|image_points| respectively.
+    \item As we have learnt in class, we can get $H$ of each picture by eigenvalue decomposition. And we can also get $B$ from $H$ by eigenvalue decomposition. Then, using Cholesky factorization, we can get $K$, which is the intrinsic matrix.
+    \item Then, we can use $P$, the camera matrix, to get reprojection error of each image.
+\end{enumerate}
+
+\begin{figure}[htpb]
+    \centering
+    \includegraphics[width=\textwidth]{pictures/result.png}
+    \caption{Results of camera calibration.}
+    \label{fig:results}
+\end{figure}
+
+The results are shown in Figure \ref{fig:results}.
+
 
 \section{Written Assignment}
 \subsection{Problem 1}
